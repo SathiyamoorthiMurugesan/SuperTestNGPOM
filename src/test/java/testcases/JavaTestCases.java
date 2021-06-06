@@ -4,7 +4,6 @@ import org.testng.annotations.Test;
 
 import base.Base;
 import pages.JavaPage;
-import pages.SQLPage;
 
 public class JavaTestCases  extends Base{
 	

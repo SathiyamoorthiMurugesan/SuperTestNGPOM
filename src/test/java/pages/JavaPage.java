@@ -1,7 +1,6 @@
 package pages;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 
 import base.Base;
 
@@ -14,8 +13,7 @@ public class JavaPage extends Base{
 	
 
 	public void openJavaPage() throws InterruptedException {
-//		launchURL();
-		getDriver().findElement(By.xpath("//a[@title='Java Tutorial']")).click();
+		driver.findElement(By.xpath("//a[@title='Java Tutorial']")).click();
 	}
 
 }
