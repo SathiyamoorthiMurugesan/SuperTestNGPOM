@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-06T16:39:55 IST" name="Default suite" finished-at="2021-06-06T16:40:05 IST" duration-ms="9335">
+    <groups>
+    </groups>
+    <test started-at="2021-06-06T16:39:55 IST" name="Default test" finished-at="2021-06-06T16:40:05 IST" duration-ms="9335">
+      <class name="testcases.JavaTestCases">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:testcases.JavaTestCases@5c671d7f]" started-at="2021-06-06T16:39:55 IST" name="launchURL" finished-at="2021-06-06T16:40:04 IST" duration-ms="8488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="verifyJavaPageIsOpening()[pri:0, instance:testcases.JavaTestCases@5c671d7f]" started-at="2021-06-06T16:40:04 IST" name="verifyJavaPageIsOpening" finished-at="2021-06-06T16:40:05 IST" duration-ms="778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJavaPageIsOpening -->
+      </class> <!-- testcases.JavaTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
